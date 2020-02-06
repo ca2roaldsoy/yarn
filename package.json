@@ -1,0 +1,11 @@
+{
+  "name": "MA2",
+  "version": "1.0.0",
+  "description": "yarn",
+  "main": "index.js",
+  "author": "cato roaldsoy",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
